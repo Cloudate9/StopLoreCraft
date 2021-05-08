@@ -1,0 +1,5 @@
+name: StopLoreCraft
+version: 1.0.0
+api-version: 1.14
+main: me.awesomemoder316.stoplorecraft.Main
+description: Stop the crafting of items if at least one of the ingredients has lore.
